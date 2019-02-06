@@ -1,6 +1,7 @@
 # bow
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to support back of words representation of text.
+It supports as well to represent the text as list of integers from a dictionary and progress reporting for operations on muktiple files.
 
 ## Usage
 
