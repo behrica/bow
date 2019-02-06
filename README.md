@@ -5,7 +5,7 @@ It supports as well to represent the text as list of integers from a dictionary 
 
 ## Usage
 
-FIXME
+Example usage : https://nextjournal.com/bow-tutorial/example-on-using-bow
 
 ## License
 
